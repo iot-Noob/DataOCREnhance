@@ -62,6 +62,10 @@ ocr_functionality.ocr_entirefile(r"Test/image", cust_preprocess_func=custom_imag
 ```bash
 pip install opencv-python pillow pytesseract nltk
 ```
+## Download my package form Python Repository
+```bash
+pip install DataOCREnhanceMain
+```
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
  
